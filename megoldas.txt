@@ -1,0 +1,9 @@
+Létrehoztunk két fájlt: auto.txt és motor.txt
+jelenlegi állapot: git status
+auto.txt Stage-re helyezése: git add auto.txt
+git add motor.txt
+feltöltés a helyi repo-ba: git commit -m "első feltöltés"
+módosítom auto.txt-t és mentem
+git add . vagy git add auto.txt
+git commit -m "mersedesszel"
+commitok lekérdezése: git log
